@@ -1,0 +1,11 @@
+.venv/
+data/raw/
+data/final_data/
+data/final_data_Maskara/
+data/final_data_sin_fonfo/
+data/processed/Potato_Leaf_Categories/
+data/processed/augmented/
+notebook_model/modelo_entrenado_resnet101.pth
+notebook_model/modelo_entrenado_resnet101_parameters.pth
+notebook_model/modelo_entrenado_TL_R50.pth
+notebook_model/modelo_entrenado_TL_R50_parameters.pth
